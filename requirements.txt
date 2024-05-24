@@ -1,0 +1,8 @@
+google-cloud-aiplatform
+ragstack-ai
+streamlit
+python-dotenv
+pandas
+astrapy
+protobuf
+vertexai
