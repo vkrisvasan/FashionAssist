@@ -1,7 +1,7 @@
 # FashionAssist/ RecommendApparel.ipynb
 Architecture of the RecommendApparel.ipynb
 ![image](https://github.com/vkrisvasan/FashionAssist/assets/10602190/866cebf8-24a9-476c-a13c-0a3e95168ef1)
-
+Refer https://www.youtube.com/watch?v=bToMzuiOMhg 
 Flow of code RecommendApparel.ipynb
 1. pass the URL of the Image or the Image from a file location and call find_similar_items method
 2. call get_image method which gets the URL of the Image or the Image file and returns the vertexai vision_model Image Object
